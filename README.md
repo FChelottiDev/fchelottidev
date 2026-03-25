@@ -9,7 +9,7 @@ Me chamo Fernando Chelotti Junior, tenho 21 anos e sou natural de São Paulo. Co
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/github/followers/FChelottiDev?color=61ff81&labelColor=61ff81&style=for-the-badge&logo=linkedi&label=Github&logoColor=black"
+            src="https://custom-icon-badges.demolab.com/github/followers/FChelottiDev?color=61ff81&labelColor=61ff81&style=for-the-badge&logo=linkedi&label=linkedin&logoColor=black"
         />
     </a>
 <a href="https://github.com/FChelottiDev?tab=followers"></a>
