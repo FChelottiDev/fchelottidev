@@ -2,7 +2,7 @@
 
 ###  **`Software Engineer`**
 
-Me chamo Fernando Chelotti Junior, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio técnico na FITO, curso técnico em Análise e Desenvolvimentos de Sistemas. Atualmente, estou cursando Engenharia de Software na FIAP. Sou fascinado por tecnologia e compartilho meu conhecimento através do meu GitHub, onde apresento meus projetos web & code's usados em projetos.
+`Me chamo Fernando Chelotti Junior, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio técnico na FITO, curso técnico em Análise e Desenvolvimentos de Sistemas. Atualmente, estou cursando Engenharia de Software na FIAP. Sou fascinado por tecnologia e compartilho meu conhecimento através do meu GitHub, onde apresento meus projetos web & code's usados em projetos.`
 
 <p align="left">
     <a href="https://www.linkedin.com/in/fernandochelotti2/">
