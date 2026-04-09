@@ -158,3 +158,5 @@ Me chamo Fernando Chelotti Junior, tenho 21 anos e sou natural de São Paulo. Co
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fchelottidev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+![snake gif](https://github.com/FChelottiDev/fchelottidev/blob/output/github-contribution-grid-snake.svg)
