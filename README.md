@@ -9,13 +9,15 @@
 <br>
 
 <a href="https://www.linkedin.com/in/fernandochelotti2">
-  <img src="https://img.shields.io/badge/LinkedIn-61FF81?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-61FF81?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
+
 <a href="mailto:fchelottizl@outlook.com">
-  <img src="https://img.shields.io/badge/Email-61FF81?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/Email-61FF81?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
+
 <a href="https://github.com/FChelottiDev">
-  <img src="https://img.shields.io/badge/GitHub-61FF81?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-61FF81?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
@@ -26,13 +28,16 @@
 
 ```yaml
 Nome: Fernando Chelotti Junior
+
 Formação:
   - Engenharia de Software (FIAP)
   - Técnico em ADS (FITO)
+
 Área:
   - Desenvolvimento Full Stack
   - Cloud Computing
   - Inteligência Artificial
+
 Objetivo:
   - Tornar-me Engenheiro de Software
   - Especialização em Cloud
@@ -46,15 +51,19 @@ Objetivo:
 <div align="center">
 
 ### Front-End
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,sass"/>
 
 ### Back-End
+
 <img src="https://skillicons.dev/icons?i=php,laravel,python"/>
 
 ### Banco de Dados
+
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
 ### Ferramentas
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 
 </div>
@@ -64,20 +73,25 @@ Objetivo:
 # 📌 Projetos em Destaque
 
 ### 🌎 GeoVision
+
 Planejamento urbano inteligente utilizando dados espaciais, IA e sensoriamento remoto.
 
-**Tecnologias:** HTML • CSS • JavaScript
+**Tecnologias:**
+HTML • CSS • JavaScript
 
 ---
 
 ### 🛰️ OrbitCity
+
 Dashboard de cidades inteligentes com indicadores urbanos e monitoramento geoespacial.
 
-**Tecnologias:** JavaScript • APIs • Dashboard
+**Tecnologias:**
+JavaScript • APIs • Dashboard
 
 ---
 
 ### 🎓 Projetos Acadêmicos FIAP
+
 Coleção de projetos desenvolvidos durante a graduação em Engenharia de Software.
 
 ---
@@ -87,9 +101,14 @@ Coleção de projetos desenvolvidos durante a graduação em Engenharia de Softw
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FChelottiDev&show_icons=true&theme=github_dark&hide_border=true"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FChelottiDev&layout=compact&theme=github_dark&hide_border=true"/>
 
+</div>
+
 <br>
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=FChelottiDev&theme=github-dark-blue&hide_border=true"/>
 
@@ -100,6 +119,7 @@ Coleção de projetos desenvolvidos durante a graduação em Engenharia de Softw
 # 🎯 Roadmap
 
 ### Concluído
+
 - ✅ HTML
 - ✅ CSS
 - ✅ JavaScript
@@ -109,12 +129,14 @@ Coleção de projetos desenvolvidos durante a graduação em Engenharia de Softw
 - ✅ Laravel
 
 ### Em evolução
+
 - 🟨 React
 - 🟨 Next.js
 - 🟨 Python
 - 🟨 Cloud Computing
 
 ### Próximos Passos
+
 - ⬜ Docker
 - ⬜ Azure
 - ⬜ AWS
@@ -127,14 +149,17 @@ Coleção de projetos desenvolvidos durante a graduação em Engenharia de Softw
 # 📜 Certificações
 
 ### Microsoft
+
 - ⬜ AI-900
 - ⬜ AZ-900
 - ⬜ DP-900
 
 ### AWS
+
 - ⬜ Cloud Practitioner
 
 ### Oracle
+
 - ⬜ Java Foundations
 
 ---
@@ -142,11 +167,13 @@ Coleção de projetos desenvolvidos durante a graduação em Engenharia de Softw
 # 🎓 Formação
 
 ### FIAP
-**Engenharia de Software**
+
+**Engenharia de Software**  
 2025 - Atual
 
 ### FITO
-**Técnico em Análise e Desenvolvimento de Sistemas**
+
+**Técnico em Análise e Desenvolvimento de Sistemas**  
 Concluído
 
 ---
@@ -159,9 +186,11 @@ Concluído
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/FChelottiDev/FChelottiDev/output/github-contribution-grid-snake-dark.svg">
+
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/FChelottiDev/FChelottiDev/output/github-contribution-grid-snake.svg">
+
   <img
     alt="snake animation"
     src="https://raw.githubusercontent.com/FChelottiDev/FChelottiDev/output/github-contribution-grid-snake.svg">
@@ -175,9 +204,11 @@ Concluído
 
 ### 📫 Vamos nos conectar
 
-💼 LinkedIn: [www.linkedin.com/in/fernandochelotti2](https://www.linkedin.com/in/fernandochelotti2)
+💼 LinkedIn: www.linkedin.com/in/fernandochelotti2
+
 📧 Email: fchelottizl@outlook.com
-🐙 GitHub: [github.com/FChelottiDev](https://github.com/FChelottiDev)
+
+🐙 GitHub: github.com/FChelottiDev
 
 <br>
 
