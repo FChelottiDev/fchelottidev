@@ -127,10 +127,13 @@ Coleção de projetos desenvolvidos durante a graduação em Engenharia de Softw
 - ✅ GitHub
 - ✅ PHP
 - ✅ Laravel
+- ✅ C++
+- ✅ C#
 
 ### Em evolução
 
 - 🟨 React
+- 🟨 TypeScript
 - 🟨 Next.js
 - 🟨 Python
 - 🟨 Cloud Computing
