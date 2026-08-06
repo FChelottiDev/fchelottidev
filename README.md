@@ -1,165 +1,135 @@
-# 👨🏻‍💻 Fernando Chelotti Junior
+<div align="center">
 
-###  **`Software Engineer`**
+# 👋 Olá, eu sou Fernando Chelotti Junior
 
-Me chamo Fernando Chelotti Junior, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio técnico na FITO, curso técnico em Análise e Desenvolvimentos de Sistemas. Atualmente, estou cursando Engenharia de Software na FIAP. Sou fascinado por tecnologia e compartilho meu conhecimento através do meu GitHub, onde apresento meus projetos web & code's usados em projetos.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=61FF81&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Cloud+Enthusiast;Always+Learning+New+Technologies"/>
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/fernandochelotti2/">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/github/followers/FChelottiDev?color=61ff81&labelColor=61ff81&style=for-the-badge&logo=linkedi&label=linkedin&logoColor=black"
-        />
-    </a>
-    <a href="https://github.com/FChelottiDev">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/github/followers/FChelottiDev?color=61ff81&labelColor=61ff81&style=for-the-badge&logo=github&label=github&logoColor=black"
-        />
-    </a>
-</p>
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+## 👨🏻‍💻 Sobre mim
 
-<br/>
-<br/>
+🎓 Estudante de **Engenharia de Software** na **FIAP**
 
-### 📊 Estatísticas
+💻 Técnico em **Análise e Desenvolvimento de Sistemas** pela **FITO**
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=fchelottidev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
+🚀 Apaixonado por tecnologia, desenvolvimento web, cloud computing e automações.
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fchelottidev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FChelottiDev/FChelottiDev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FChelottiDev/FChelottiDev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+📚 Atualmente estudando:
+
+- Engenharia de Software
+- React & Next.js
+- Laravel
+- Cloud Computing
+- Arquitetura de Software
+
+---
+
+<div align="center">
+
+### 🌐 Contato
+
+<a href="https://www.linkedin.com/in/fernandochelotti2">
+<img src="https://img.shields.io/badge/LinkedIn-61FF81?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="mailto:fchelottizl@outlook.com">
+<img src="https://img.shields.io/badge/Email-61FF81?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<a href="https://github.com/FChelottiDev">
+<img src="https://img.shields.io/badge/GitHub-61FF81?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+# 💻 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,bootstrap,tailwind,sass,php,laravel,jquery,git,html,css,vscode,figma&theme=dark"/>
+
+</div>
+
+---
+
+# 📊 Estatísticas
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=FChelottiDev&show_icons=true&theme=github_dark&locale=pt-br&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FChelottiDev&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=FChelottiDev&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Troféus
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=FChelottiDev&theme=algolia&margin-w=15&margin-h=15&no-frame=true&row=1"/>
+
+</div>
+
+---
+
+# 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FChelottiDev&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Snake Animation
+
+<div align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/FChelottiDev/FChelottiDev/output/github-contribution-grid-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/FChelottiDev/FChelottiDev/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://raw.githubusercontent.com/FChelottiDev/FChelottiDev/output/github-contribution-grid-snake.svg"/>
+
 </picture>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=FChelottiDev&style=for-the-badge&color=61ff81)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💚 Obrigado pela visita!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
