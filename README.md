@@ -1,34 +1,12 @@
 <div align="center">
 
-# 👋 Olá, eu sou Fernando Chelotti Junior
+# 👨🏻‍💻 Fernando Chelotti Junior
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=61FF81&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Cloud+Enthusiast;Always+Learning+New+Technologies"/>
+### Software Engineer Student • Full Stack Developer • Cloud & AI Enthusiast
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=61FF81&center=true&vCenter=true&width=700&lines=Engenharia+de+Software+na+FIAP;Desenvolvedor+Full+Stack;Cloud+Computing;Sempre+aprendendo+algo+novo"/>
 
----
-
-## 👨🏻‍💻 Sobre mim
-
-🎓 Estudante de **Engenharia de Software** na **FIAP**
-
-💻 Técnico em **Análise e Desenvolvimento de Sistemas** pela **FITO**
-
-🚀 Apaixonado por tecnologia, desenvolvimento web, cloud computing e automações.
-
-📚 Atualmente estudando:
-
-- Engenharia de Software
-- React & Next.js
-- Laravel
-- Cloud Computing
-- Arquitetura de Software
-
----
-
-<div align="center">
-
-### 🌐 Contato
+<br>
 
 <a href="https://www.linkedin.com/in/fernandochelotti2">
 <img src="https://img.shields.io/badge/LinkedIn-61FF81?style=for-the-badge&logo=linkedin&logoColor=black"/>
@@ -46,29 +24,89 @@
 
 ---
 
-# 💻 Tecnologias
+# 🚀 Sobre Mim
+
+```yaml
+Nome: Fernando Chelotti Junior
+
+Formação:
+  - Engenharia de Software (FIAP)
+  - Técnico em ADS (FITO)
+
+Área:
+  - Desenvolvimento Full Stack
+  - Cloud Computing
+  - Inteligência Artificial
+
+Objetivo:
+  - Tornar-me Engenheiro de Software
+  - Especialização em Cloud
+  - Certificações Microsoft e AWS
+```
+
+---
+
+# 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,bootstrap,tailwind,sass,php,laravel,jquery,git,html,css,vscode,figma&theme=dark"/>
+### Front-End
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,sass"/>
+
+### Back-End
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python"/>
+
+### Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 
 </div>
 
 ---
 
-# 📊 Estatísticas
+# 📌 Projetos em Destaque
 
-<div align="center">
+### 🌎 GeoVision
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=FChelottiDev&show_icons=true&theme=github_dark&locale=pt-br&hide_border=true"/>
+Planejamento urbano inteligente utilizando dados espaciais, IA e sensoriamento remoto.
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FChelottiDev&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+**Tecnologias:**
+HTML • CSS • JavaScript
 
 ---
 
-# 🔥 Sequência de Contribuições
+### 🛰️ OrbitCity
+
+Dashboard de cidades inteligentes com indicadores urbanos e monitoramento geoespacial.
+
+**Tecnologias:**
+JavaScript • APIs • Dashboard
+
+---
+
+### 🎓 Projetos Acadêmicos FIAP
+
+Coleção de projetos desenvolvidos durante a graduação em Engenharia de Software.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FChelottiDev&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FChelottiDev&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -78,40 +116,84 @@
 
 ---
 
-# 🏆 Troféus
+# 🎯 Roadmap
 
-<div align="center">
+### Concluído
 
-<img src="https://github-profile-trophy.vercel.app/?username=FChelottiDev&theme=algolia&margin-w=15&margin-h=15&no-frame=true&row=1"/>
+- ✅ HTML
+- ✅ CSS
+- ✅ JavaScript
+- ✅ Git
+- ✅ GitHub
+- ✅ PHP
+- ✅ Laravel
 
-</div>
+### Em evolução
+
+- 🟨 React
+- 🟨 Next.js
+- 🟨 Python
+- 🟨 Cloud Computing
+
+### Próximos Passos
+
+- ⬜ Docker
+- ⬜ Azure
+- ⬜ AWS
+- ⬜ Kubernetes
+- ⬜ DevOps
+- ⬜ Microsserviços
 
 ---
 
-# 📈 Atividade
+# 📜 Certificações
 
-<div align="center">
+### Microsoft
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FChelottiDev&theme=github-dark&hide_border=true"/>
+- ⬜ AI-900
+- ⬜ AZ-900
+- ⬜ DP-900
 
-</div>
+### AWS
+
+- ⬜ Cloud Practitioner
+
+### Oracle
+
+- ⬜ Java Foundations
 
 ---
 
-# 🐍 Snake Animation
+# 🎓 Formação
+
+### FIAP
+
+**Engenharia de Software**  
+2025 - Atual
+
+### FITO
+
+**Técnico em Análise e Desenvolvimento de Sistemas**  
+Concluído
+
+---
+
+# 🐍 Contribuições
 
 <div align="center">
 
 <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/FChelottiDev/FChelottiDev/output/github-contribution-grid-snake-dark.svg">
 
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/FChelottiDev/FChelottiDev/output/github-contribution-grid-snake-dark.svg"/>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/FChelottiDev/FChelottiDev/output/github-contribution-grid-snake.svg">
 
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/FChelottiDev/FChelottiDev/output/github-contribution-grid-snake.svg"/>
-
-<img src="https://raw.githubusercontent.com/FChelottiDev/FChelottiDev/output/github-contribution-grid-snake.svg"/>
-
+  <img
+    alt="snake animation"
+    src="https://raw.githubusercontent.com/FChelottiDev/FChelottiDev/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -120,16 +202,18 @@ srcset="https://raw.githubusercontent.com/FChelottiDev/FChelottiDev/output/githu
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=FChelottiDev&style=for-the-badge&color=61ff81)
+### 📫 Vamos nos conectar
 
-</div>
+💼 LinkedIn: www.linkedin.com/in/fernandochelotti2
 
----
+📧 Email: fchelottizl@outlook.com
 
-<div align="center">
+🐙 GitHub: github.com/FChelottiDev
 
-### 💚 Obrigado pela visita!
+<br>
 
-*"Code. Learn. Build. Repeat."*
+⭐ Obrigado pela visita!
+
+*"Transformando ideias em código."*
 
 </div>
