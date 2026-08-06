@@ -1,14 +1,26 @@
 <div align="center">
 
-# 👨🏻‍💻 Fernando Chelotti Junior
+# ███████╗ ██████╗██╗  ██╗███████╗██╗      ██████╗ ████████╗████████╗██╗
 
-### Software Engineer Student • Full Stack Developer • Cloud & AI Enthusiast
+# ██╔════╝██╔════╝██║  ██║██╔════╝██║     ██╔═══██╗╚══██╔══╝╚══██╔══╝██║
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=61FF81&center=true&vCenter=true&width=700&lines=Engenharia+de+Software+na+FIAP;Desenvolvedor+Full+Stack;Cloud+Computing;Sempre+aprendendo+algo+novo"/>
+# █████╗  ██║     ███████║█████╗  ██║     ██║   ██║   ██║      ██║   ██║
+
+# ██╔══╝  ██║     ██╔══██║██╔══╝  ██║     ██║   ██║   ██║      ██║   ██║
+
+# ██║     ╚██████╗██║  ██║███████╗███████╗╚██████╔╝   ██║      ██║   ██║
+
+# ╚═╝      ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝    ╚═╝      ╚═╝   ╚═╝
+
+## **Fernando Chelotti Junior**
+
+### Software Engineer • Full Stack Developer • Cloud & AI Enthusiast
+
+Desenvolvendo soluções modernas com foco em qualidade, performance e aprendizado contínuo.
 
 <br>
 
-<a href="https://www.linkedin.com/in/fernandochelotti2">
+<a href="https://www.linkedin.com/in/fernandochelotti2" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-61FF81?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
@@ -16,7 +28,7 @@
 <img src="https://img.shields.io/badge/Email-61FF81?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
-<a href="https://github.com/FChelottiDev">
+<a href="https://github.com/FChelottiDev" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-61FF81?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
@@ -24,45 +36,49 @@
 
 ---
 
-# 🚀 Sobre Mim
+# 👨🏻‍💻 Sobre mim
 
-```yaml
-Nome: Fernando Chelotti Junior
+🎓 Graduando em **Engenharia de Software** na **FIAP**
 
-Formação:
-  - Engenharia de Software (FIAP)
-  - Técnico em ADS (FITO)
+💻 Técnico em **Análise e Desenvolvimento de Sistemas** pela **FITO**
 
-Área:
-  - Desenvolvimento Full Stack
-  - Cloud Computing
-  - Inteligência Artificial
+🚀 Apaixonado por tecnologia, desenvolvimento Full Stack, Cloud Computing, Inteligência Artificial e Arquitetura de Software.
 
-Objetivo:
-  - Tornar-me Engenheiro de Software
-  - Especialização em Cloud
-  - Certificações Microsoft e AWS
-```
+📚 Atualmente focado em:
+
+* React
+* Next.js
+* Laravel
+* Python
+* Cloud Computing
+* Inteligência Artificial
+* Engenharia de Software
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Stack
 
 <div align="center">
 
-### Front-End
+## Front-end
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,sass"/>
 
-### Back-End
+<br><br>
+
+## Back-end
 
 <img src="https://skillicons.dev/icons?i=php,laravel,python"/>
 
-### Banco de Dados
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+## Cloud & Database
 
-### Ferramentas
+<img src="https://skillicons.dev/icons?i=aws,azure,mysql"/>
+
+<br><br>
+
+## Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 
@@ -70,39 +86,13 @@ Objetivo:
 
 ---
 
-# 📌 Projetos em Destaque
-
-### 🌎 GeoVision
-
-Planejamento urbano inteligente utilizando dados espaciais, IA e sensoriamento remoto.
-
-**Tecnologias:**
-HTML • CSS • JavaScript
-
----
-
-### 🛰️ OrbitCity
-
-Dashboard de cidades inteligentes com indicadores urbanos e monitoramento geoespacial.
-
-**Tecnologias:**
-JavaScript • APIs • Dashboard
-
----
-
-### 🎓 Projetos Acadêmicos FIAP
-
-Coleção de projetos desenvolvidos durante a graduação em Engenharia de Software.
-
----
-
-# 📊 GitHub Analytics
+# 📊 Dashboard
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FChelottiDev&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FChelottiDev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FChelottiDev&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FChelottiDev&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -116,65 +106,57 @@ Coleção de projetos desenvolvidos durante a graduação em Engenharia de Softw
 
 ---
 
-# 🎯 Roadmap
+# 🚀 Projetos em Destaque
 
-### Concluído
+<div align="center">
 
-- ✅ HTML
-- ✅ CSS
-- ✅ JavaScript
-- ✅ Git
-- ✅ GitHub
-- ✅ PHP
-- ✅ Laravel
+| Projeto              | Descrição                                                                            |
+| -------------------- | ------------------------------------------------------------------------------------ |
+| 🌎 **GeoVision**     | Plataforma inteligente para planejamento urbano utilizando sensoriamento remoto e IA |
+| 🛰️ **OrbitCity**    | Dashboard de cidades inteligentes com mapas, indicadores e automações                |
+| 💼 **Portfólio Web** | Aplicação moderna desenvolvida em React                                              |
+| 🎓 **Projetos FIAP** | Projetos acadêmicos focados em desenvolvimento Full Stack                            |
 
-### Em evolução
-
-- 🟨 React
-- 🟨 Next.js
-- 🟨 Python
-- 🟨 Cloud Computing
-
-### Próximos Passos
-
-- ⬜ Docker
-- ⬜ Azure
-- ⬜ AWS
-- ⬜ Kubernetes
-- ⬜ DevOps
-- ⬜ Microsserviços
-
----
-
-# 📜 Certificações
-
-### Microsoft
-
-- ⬜ AI-900
-- ⬜ AZ-900
-- ⬜ DP-900
-
-### AWS
-
-- ⬜ Cloud Practitioner
-
-### Oracle
-
-- ⬜ Java Foundations
+</div>
 
 ---
 
 # 🎓 Formação
 
-### FIAP
+<div align="center">
 
-**Engenharia de Software**  
-2025 - Atual
+| Instituição | Curso                                            | Status          |
+| ----------- | ------------------------------------------------ | --------------- |
+| **FIAP**    | Engenharia de Software                           | 🚀 Em andamento |
+| **FITO**    | Técnico em Análise e Desenvolvimento de Sistemas | ✅ Concluído     |
 
-### FITO
+</div>
 
-**Técnico em Análise e Desenvolvimento de Sistemas**  
-Concluído
+---
+
+# 📜 Roadmap
+
+<div align="center">
+
+| Tecnologia     | Status |
+| -------------- | ------ |
+| HTML           | 🟢     |
+| CSS            | 🟢     |
+| JavaScript     | 🟢     |
+| TypeScript     | 🟢     |
+| React          | 🟢     |
+| Next.js        | 🟢     |
+| PHP            | 🟢     |
+| Laravel        | 🟢     |
+| Python         | 🟢     |
+| Docker         | 🟡     |
+| Azure          | 🟡     |
+| AWS            | 🟡     |
+| Kubernetes     | ⚪      |
+| DevOps         | ⚪      |
+| Microsserviços | ⚪      |
+
+</div>
 
 ---
 
@@ -183,18 +165,33 @@ Concluído
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/FChelottiDev/FChelottiDev/output/github-contribution-grid-snake-dark.svg">
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/FChelottiDev/FChelottiDev/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/FChelottiDev/FChelottiDev/output/github-contribution-grid-snake-dark.svg">
 
-  <img
-    alt="snake animation"
-    src="https://raw.githubusercontent.com/FChelottiDev/FChelottiDev/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/FChelottiDev/FChelottiDev/output/github-contribution-grid-snake.svg">
+
+<img alt="Snake Animation"
+src="https://raw.githubusercontent.com/FChelottiDev/FChelottiDev/output/github-contribution-grid-snake.svg">
+
 </picture>
+
+</div>
+
+---
+
+# 📫 Contato
+
+<div align="center">
+
+### Vamos nos conectar?
+
+**LinkedIn:** <a href="https://www.linkedin.com/in/fernandochelotti2">fernandochelotti2</a>
+
+**Email:** **[fchelottizl@outlook.com](mailto:fchelottizl@outlook.com)**
+
+**GitHub:** <a href="https://github.com/FChelottiDev">FChelottiDev</a>
 
 </div>
 
@@ -202,18 +199,12 @@ Concluído
 
 <div align="center">
 
-### 📫 Vamos nos conectar
+<img src="https://komarev.com/ghpvc/?username=FChelottiDev&style=for-the-badge&color=61FF81"/>
 
-💼 LinkedIn: www.linkedin.com/in/fernandochelotti2
+<br><br>
 
-📧 Email: fchelottizl@outlook.com
+## 💚 Obrigado por visitar meu perfil!
 
-🐙 GitHub: github.com/FChelottiDev
-
-<br>
-
-⭐ Obrigado pela visita!
-
-*"Transformando ideias em código."*
+### *"Transformando ideias em código."*
 
 </div>
